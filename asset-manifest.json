@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio-chichi/static/css/main.638ea085.css",
-    "main.js": "/Portfolio-chichi/static/js/main.ca0d418f.js",
+    "main.css": "/Portfolio-chichi/static/css/main.b6fa71ee.css",
+    "main.js": "/Portfolio-chichi/static/js/main.4e6d399e.js",
     "index.html": "/Portfolio-chichi/index.html",
-    "main.638ea085.css.map": "/Portfolio-chichi/static/css/main.638ea085.css.map",
-    "main.ca0d418f.js.map": "/Portfolio-chichi/static/js/main.ca0d418f.js.map"
+    "main.b6fa71ee.css.map": "/Portfolio-chichi/static/css/main.b6fa71ee.css.map",
+    "main.4e6d399e.js.map": "/Portfolio-chichi/static/js/main.4e6d399e.js.map"
   },
   "entrypoints": [
-    "static/css/main.638ea085.css",
-    "static/js/main.ca0d418f.js"
+    "static/css/main.b6fa71ee.css",
+    "static/js/main.4e6d399e.js"
   ]
 }
